@@ -1,2 +1,2 @@
-# mahesh
+# pratics
 pratics perpose making
